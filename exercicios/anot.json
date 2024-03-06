@@ -1,0 +1,82 @@
+{
+    "documentType": "BR_CNPJ",
+    "city": {
+        "name": "Itajaí",
+        "id": 5544,
+        "state": {
+            "country": {
+                "codeA2": "BR",
+                "codeA3": "BRA",
+                "codeN": "076",
+                "name": "Brasil",
+                "id": 1030,
+                "properties": {
+                    "#user": "system@personalsoft.com.br",
+                    "#created": "2023-02-07T13:46:41.6435525-03:00[America/Sao_Paulo]",
+                    "fiscal_br_cPais": "1058"
+                },
+                "tags": "#system,southAmerica"
+            },
+            "code": "SC",
+            "name": "Santa Catarina",
+            "id": 1024,
+            "properties": {
+                "#user": "system@personalsoft.com.br",
+                "#created": "2023-02-07T13:47:42.9299798-03:00[America/Sao_Paulo]",
+                "fiscal_br_cUF": "42"
+            },
+            "tags": "#system,sul"
+        },
+        "properties": {
+            "#user": "system@personalsoft.com.br",
+            "#created": "2023-02-07T14:11:34.2768442-03:00[America/Sao_Paulo]",
+            "fiscal_br_cMun": "4208203"
+        },
+        "tags": "#system"
+    },
+    "documentNumber": "49.316.230/0001-53",
+    "type": "CORPORATION",
+    "fiscalProfilePerson": {
+        "fiscalRegion": {
+            "code": "BR",
+            "id": 1001,
+            "tags": "#system"
+        },
+        "description": "Regime Normal SC",
+        "id": 1133,
+        "properties": {},
+        "tags": "#system"
+    },
+    "number": "211",
+    "street": "Rua Odílio Garcias",
+    "id": 1001,
+    "document2Number": "262104245",
+    "complement": "Sala B, Box 140",
+    "email": "admmariopavani@gmail.com",
+    "document2Type": "BR_INSCRICAO_ESTADUAL",
+    "tags": "#company,customer,employee,salesperson",
+    "zipcode": "88310180",
+    "nationality": {
+        "codeA2": "BR",
+        "codeA3": "BRA",
+        "codeN": "076",
+        "name": "Brasil",
+        "id": 1030,
+        "properties": {
+            "#user": "system@personalsoft.com.br",
+            "#created": "2023-02-07T13:46:41.6435525-03:00[America/Sao_Paulo]",
+            "fiscal_br_cPais": "1058"
+        },
+        "tags": "#system,southAmerica"
+    },
+    "phone": "(19) 2217-4840",
+    "district": "Cordeiros",
+    "name": "Mario Pavani Importação E Exportação Ltda",
+    "fantasyName": "Mário Pavani Importação Têxtil",
+    "properties": {
+        "cnae": "46.41-9-03",
+        "#user": "support@personalsoft.com.br",
+        "#created": "2023-02-07T15:38:39.103741789-03:00[America/Sao_Paulo]",
+        "/catalog/person/personOpReadFromPersonDirectory/response.hdd": "{\n\t\"status\": true,\n\t\"return\": \"OK\",\n\t\"result\": {\n\t\t\"numero_de_inscricao\": \"49316230000153\",\n\t\t\"tipo\": \"MATRIZ\",\n\t\t\"abertura\": \"24\\/01\\/2023\",\n\t\t\"nome\": \"ROSH ADMINISTRACAO, IMPORTACAO E COMERCIO LTDA\",\n\t\t\"fantasia\": \"\",\n\t\t\"porte\": \"EMPRESA DE PEQUENO PORTE\",\n\t\t\"atividade_principal\": {\n\t\t\t\"text\": \"Comércio atacadista de artigos de armarinho\",\n\t\t\t\"code\": \"46.41-9-03\"\n\t\t},\n\t\t\"atividades_secundarias\": [\n\t\t\t{\n\t\t\t\t\"text\": \"Comércio varejista de tecidos\",\n\t\t\t\t\"code\": \"47.55-5-01\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"text\": \"Serviços combinados de escritório e apoio administrativo\",\n\t\t\t\t\"code\": \"82.11-3-00\"\n\t\t\t}\n\t\t],\n\t\t\"natureza_juridica\": \"206-2 - Sociedade Empresária Limitada\",\n\t\t\"logradouro\": \"RODOVIA JORGE LACERDA\",\n\t\t\"numero\": \"725\",\n\t\t\"complemento\": \"\",\n\t\t\"cep\": \"88.317-100\",\n\t\t\"bairro\": \"ESPINHEIROS\",\n\t\t\"municipio\": \"ITAJAí\",\n\t\t\"uf\": \"SC\",\n\t\t\"email\": \"tatianeapedroso@gmail.com\",\n\t\t\"telefone\": \"(19) 3407-6477\",\n\t\t\"entidade_federativo_responsavel\": \"\",\n\t\t\"situacao\": \"ATIVA\",\n\t\t\"motivo_situacao_cadastral\": \"\",\n\t\t\"dt_situacao_cadastral\": \"24\\/01\\/2023\",\n\t\t\"situacao_especial\": \"\",\n\t\t\"data_situacao_especial\": \"\",\n\t\t\"capital_social\": \"700000.00\",\n\t\t\"quadro_socios\": [\n\t\t\t\"MAURO CESAR FALCHI 22-Sócio\",\n\t\t\t\"MARIO PAVANI NETO 49-Sócio-Administrador\"\n\t\t],\n\t\t\"quadro_de_socios\": [\n\t\t\t{\n\t\t\t\t\"informacoes\": \"Json quadro_de_socios ainda está em testes. Ele possui as mesmas informações do Json quadro_socios de forma mais detalhada, MAS ainda não se encontra preenchido em todos os números de CNPJ de nossa base. Em breve ele substituirá o Json quadro_socios. Siga nosso Twitter para atualizações: https:\\/\\/twitter.com\\/hubdodev\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"nome\": \"MAURO CESAR FALCHI\",\n\t\t\t\t\"qualificacao\": \"22-Sócio\",\n\t\t\t\t\"pais_de_origem\": \"\",\n\t\t\t\t\"nome_representante_legal\": \"\",\n\t\t\t\t\"qualificacao_representante_legal\": \"\"\n\t\t\t},\n\t\t\t{\n\t\t\t\t\"nome\": \"MARIO PAVANI NETO\",\n\t\t\t\t\"qualificacao\": \"49-Sócio-Administrador\",\n\t\t\t\t\"pais_de_origem\": \"\",\n\t\t\t\t\"nome_representante_legal\": \"\",\n\t\t\t\t\"qualificacao_representante_legal\": \"\"\n\t\t\t}\n\t\t]\n\t}\n}"
+    }
+}
